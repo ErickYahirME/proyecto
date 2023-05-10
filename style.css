@@ -1,6 +1,10 @@
 h1{
     padding: auto;
+    text-decoration: dashed;
+    align-items: center;
 }
 p{
     text-align: center;
+    animation: alternate;
+    width: auto;
 }

@@ -7,4 +7,5 @@ p{
     text-align: center;
     animation: alternate;
     width: auto;
+    align-self: start;
 }
